@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.imagefashionforever.dsr",
+    "sha256_cert_fingerprints": ["13:31:B4:10:41:9F:E9:8C:94:94:12:4C:76:80:E8:07:D1:81:ED:9C:D1:99:42:32:04:78:AE:D0:2E:53:5A:B2"]
+  }
+}]
